@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productpalculate",
+        "uuid": 10223406,
+        "checksum": "khu6l"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
